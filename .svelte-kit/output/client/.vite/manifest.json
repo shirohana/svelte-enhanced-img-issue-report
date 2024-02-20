@@ -1,0 +1,144 @@
+{
+  "%E3%82%8A%E3%82%93%E3%81%94.avif": {
+    "file": "_app/immutable/assets/%E3%82%8A%E3%82%93%E3%81%94.ksNflIUE.avif",
+    "src": "%E3%82%8A%E3%82%93%E3%81%94.avif"
+  },
+  "%E3%82%8A%E3%82%93%E3%81%94.jpg": {
+    "file": "_app/immutable/assets/%E3%82%8A%E3%82%93%E3%81%94.BBQXR1KF.jpg",
+    "src": "%E3%82%8A%E3%82%93%E3%81%94.jpg"
+  },
+  "%E3%82%8A%E3%82%93%E3%81%94.webp": {
+    "file": "_app/immutable/assets/%E3%82%8A%E3%82%93%E3%81%94.DXMdvZ2I.webp",
+    "src": "%E3%82%8A%E3%82%93%E3%81%94.webp"
+  },
+  "%E8%98%8B%E6%9E%9C.avif": {
+    "file": "_app/immutable/assets/%E8%98%8B%E6%9E%9C.Be5TAvTE.avif",
+    "src": "%E8%98%8B%E6%9E%9C.avif"
+  },
+  "%E8%98%8B%E6%9E%9C.jpg": {
+    "file": "_app/immutable/assets/%E8%98%8B%E6%9E%9C.B5rZrqL7.jpg",
+    "src": "%E8%98%8B%E6%9E%9C.jpg"
+  },
+  "%E8%98%8B%E6%9E%9C.webp": {
+    "file": "_app/immutable/assets/%E8%98%8B%E6%9E%9C.C8npSy0f.webp",
+    "src": "%E8%98%8B%E6%9E%9C.webp"
+  },
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "file": "_app/immutable/entry/app.B64DTJUM.js",
+    "src": ".svelte-kit/generated/client-optimized/app.js",
+    "isEntry": true,
+    "imports": [
+      "_scheduler.GQjQWUNk.js",
+      "_index.DJhhrnOK.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0.DfV-SBf-.js",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.GQjQWUNk.js",
+      "_index.DJhhrnOK.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.Rv_zov3a.js",
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.GQjQWUNk.js",
+      "_index.DJhhrnOK.js",
+      "_entry.n7n88sdh.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "_app/immutable/nodes/2.BlIOlymU.js",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.GQjQWUNk.js",
+      "_index.DJhhrnOK.js"
+    ],
+    "css": [
+      "_app/immutable/assets/2.BygMRmm9.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/apple.D7eaZYYu.jpg",
+      "_app/immutable/assets/蘋果.B6GOrG-g.jpg",
+      "_app/immutable/assets/りんご.CSObgMi8.jpg",
+      "_app/immutable/assets/apple.C9K-Ddxz.avif",
+      "_app/immutable/assets/apple.CRaZyCSu.avif",
+      "_app/immutable/assets/apple.BSDqVdwF.webp",
+      "_app/immutable/assets/apple.BdyvhPdB.webp",
+      "_app/immutable/assets/apple.CSOCE1mP.jpg",
+      "_app/immutable/assets/apple.YR7V9jB_.jpg",
+      "_app/immutable/assets/%E8%98%8B%E6%9E%9C.BWxEiO_M.avif",
+      "_app/immutable/assets/%E8%98%8B%E6%9E%9C.Be5TAvTE.avif",
+      "_app/immutable/assets/%E8%98%8B%E6%9E%9C.uD20YsES.webp",
+      "_app/immutable/assets/%E8%98%8B%E6%9E%9C.C8npSy0f.webp",
+      "_app/immutable/assets/%E8%98%8B%E6%9E%9C.B31nlQnl.jpg",
+      "_app/immutable/assets/%E8%98%8B%E6%9E%9C.B5rZrqL7.jpg",
+      "_app/immutable/assets/%E3%82%8A%E3%82%93%E3%81%94.CWX8iQsd.avif",
+      "_app/immutable/assets/%E3%82%8A%E3%82%93%E3%81%94.ksNflIUE.avif",
+      "_app/immutable/assets/%E3%82%8A%E3%82%93%E3%81%94.9RqXyi68.webp",
+      "_app/immutable/assets/%E3%82%8A%E3%82%93%E3%81%94.DXMdvZ2I.webp",
+      "_app/immutable/assets/%E3%82%8A%E3%82%93%E3%81%94.Bo0xqkpM.jpg",
+      "_app/immutable/assets/%E3%82%8A%E3%82%93%E3%81%94.BBQXR1KF.jpg"
+    ]
+  },
+  "_entry.n7n88sdh.js": {
+    "file": "_app/immutable/chunks/entry.n7n88sdh.js",
+    "imports": [
+      "_scheduler.GQjQWUNk.js"
+    ]
+  },
+  "_index.DJhhrnOK.js": {
+    "file": "_app/immutable/chunks/index.DJhhrnOK.js",
+    "imports": [
+      "_scheduler.GQjQWUNk.js"
+    ]
+  },
+  "_scheduler.GQjQWUNk.js": {
+    "file": "_app/immutable/chunks/scheduler.GQjQWUNk.js"
+  },
+  "apple.avif": {
+    "file": "_app/immutable/assets/apple.CRaZyCSu.avif",
+    "src": "apple.avif"
+  },
+  "apple.jpg": {
+    "file": "_app/immutable/assets/apple.YR7V9jB_.jpg",
+    "src": "apple.jpg"
+  },
+  "apple.webp": {
+    "file": "_app/immutable/assets/apple.BdyvhPdB.webp",
+    "src": "apple.webp"
+  },
+  "node_modules/.pnpm/@sveltejs+kit@2.5.0_@sveltejs+vite-plugin-svelte@3.0.2_svelte@4.2.11_vite@5.1.3/node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
+    "file": "_app/immutable/entry/start.oKaoEhOG.js",
+    "src": "node_modules/.pnpm/@sveltejs+kit@2.5.0_@sveltejs+vite-plugin-svelte@3.0.2_svelte@4.2.11_vite@5.1.3/node_modules/@sveltejs/kit/src/runtime/client/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_entry.n7n88sdh.js"
+    ]
+  },
+  "src/lib/assets/apple.jpg": {
+    "file": "_app/immutable/assets/apple.D7eaZYYu.jpg",
+    "src": "src/lib/assets/apple.jpg"
+  },
+  "src/lib/assets/りんご.jpg": {
+    "file": "_app/immutable/assets/りんご.CSObgMi8.jpg",
+    "src": "src/lib/assets/りんご.jpg"
+  },
+  "src/lib/assets/蘋果.jpg": {
+    "file": "_app/immutable/assets/蘋果.B6GOrG-g.jpg",
+    "src": "src/lib/assets/蘋果.jpg"
+  }
+}
