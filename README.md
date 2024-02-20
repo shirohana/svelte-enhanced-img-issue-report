@@ -1,3 +1,5 @@
+# For issue report only [https://github.com/sveltejs/kit/issues/11874](https://github.com/sveltejs/kit/issues/11874)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
